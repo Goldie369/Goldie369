@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Goldie Rizova
 * I am a junior Software Engineer  
-* 🌍  I'm based in Chicago, IL * ✉️  You can contact me at [zlatelinarizova@gmail.com](mailto:zlatelinarizova@gmail.com)
+* 🌍  I'm based in Chicago, IL 
+* ✉️  You can contact me at [zlatelinarizova@gmail.com](mailto:zlatelinarizova@gmail.com)
 
 <a href="https://www.github.com/Goldie369" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Goldie369?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 ### Skills  
