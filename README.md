@@ -2,7 +2,7 @@ Hi  👋🏻
 My name is Goldie Rizova
 * I am a junior Software Engineer  
 * 🌍  I'm based in Chicago, IL 
-* 🖥️  See my portfolio at [this clickable link](https://goldie369.github.io/Goldie-Portfolio/)
+* 🖥️  See my portfolio at [link](https://goldie369.github.io/Goldie-Portfolio/)
 * 🧠  I am currently a student of Northwestern University bootcamp
 * ✉️  You can contact me at [zlatelinarizova@gmail.com](mailto:zlatelinarizova@gmail.com)
 
