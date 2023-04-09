@@ -2,6 +2,7 @@ Hi  👋🏻
 My name is Goldie Rizova
 * I am a junior Software Engineer  
 * 🌍  I'm based in Chicago, IL 
+* 🖥️  See my portfolio at [this clickable link]()
 * ✉️  You can contact me at [zlatelinarizova@gmail.com](mailto:zlatelinarizova@gmail.com)
 
 <a href="https://www.github.com/Goldie369" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Goldie369?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
